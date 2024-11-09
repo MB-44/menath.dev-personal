@@ -1,10 +1,8 @@
-# **Build your portfolio with Once UI's Magic Portfolio**
-
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+# **Menath.dev**
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/MB-44/menath.dev-personal.git
 ```
 
 **2. Install dependencies**

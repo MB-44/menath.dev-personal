@@ -1,4 +1,4 @@
-const baseURL = 'demo.magic-portfolio.com'
+const baseURL = 'menath.dev'
 
 // Enable localization
 const i18n = false;
